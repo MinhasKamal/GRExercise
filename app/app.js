@@ -1,10 +1,18 @@
 'use strict';
 
+var subHeaderTitle = {};
+
+window.addEventListener('beforeunload', function (e) {
+        e.preventDefault();
+        e.returnValue = '';
+    });
+
 var GRExercise = angular.module('GRExercise', [
     'ngRoute',
     'homeModule',
     'errorModule',
     'headerModule',
+    'subHeaderModule',
     'footerModule',
 ]);
 

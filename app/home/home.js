@@ -15,6 +15,7 @@ homeModule.config([
                 '$scope',
 
                 function($scope){
+                    subHeaderTitle.value = "Home";
                 }],
             });
     }
