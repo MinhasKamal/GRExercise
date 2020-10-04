@@ -6,14 +6,14 @@ var errorModule = angular.module('errorModule', [
 
 errorModule.config([
     '$routeProvider',
-    
+
     function ($routeProvider) {
         $routeProvider
             .when('/error', {
                 templateUrl: 'app/error/error.html',
                 controller: [
                 '$scope',
-                
+
                 function($scope){
                 }],
             });

@@ -1,4 +1,29 @@
+:root {
+    --bgColor: #1F2E3D;
+    --fgColor: #EFEFEF;
+    --textColor: #000000;
+    --textColorLink: #4090E0;
 
-body{
+    --windowWidth: 25cm;
+    }
+
+body {
     font-family: sans-serif, arial;
+    background-color: var(--bgColor);
+    color: var(--textColor);
+    margin: 0px;
+}
+h1,h2,h3,h4,p,i,ul,ol,li,table,tr,td {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+a {
+    color: var(--textColorLink);
+}
+
+.content {
+    background-color: var(--fgColor);
+    width: var(--windowWidth);
+    margin: auto;
 }
