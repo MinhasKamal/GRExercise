@@ -1,0 +1,1 @@
+Write a response in which you discuss which questions would need to be answered in order to decide whether the recommendation is likely to have the predicted result. Be sure to explain how the answers to these questions would help to evaluate the recommendation.

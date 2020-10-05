@@ -16,6 +16,7 @@ awaModule.config([
                 '$routeParams',
 
                 function($scope, $routeParams) {
+                    loadAWAQuestion($routeParams.type);
                 }],
             });
     }
