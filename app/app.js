@@ -11,6 +11,7 @@ var GRExercise = angular.module('GRExercise', [
     'ngRoute',
     'homeModule',
     'errorModule',
+    'awaModule',
     'headerModule',
     'subHeaderModule',
     'footerModule',
