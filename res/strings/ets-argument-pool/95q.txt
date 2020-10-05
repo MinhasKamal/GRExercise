@@ -1,0 +1,3 @@
+The following was written as a part of an application for a small-business loan by a group of developers in the city of Monroe.
+
+"Jazz music is extremely popular in the city of Monroe: over 100,000 people attended Monroe's annual jazz festival last summer, and the highest-rated radio program in Monroe is 'Jazz Nightly,' which airs every weeknight. Also, a number of well-known jazz musicians own homes in Monroe. Nevertheless, the nearest jazz club is over an hour away. Given the popularity of jazz in Monroe and a recent nationwide study indicating that the typical jazz fan spends close to $1,000 per year on jazz entertainment, we predict that our new jazz music club in Monroe will be a tremendously profitable enterprise."

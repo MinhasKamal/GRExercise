@@ -1,0 +1,3 @@
+The following was written as a part of an application for a small-business loan by a group of developers in the city of Monroe.
+
+"A jazz music club in Monroe would be a tremendously profitable enterprise. Currently, the nearest jazz club is 65 miles away; thus, the proposed new jazz club in Monroe, the C-Note, would have the local market all to itself. Plus, jazz is extremely popular in Monroe: over 100,000 people attended Monroe's annual jazz festival last summer; several well-known jazz musicians live in Monroe; and the highest-rated radio program in Monroe is 'Jazz Nightly,' which airs every weeknight at 7 P.M. Finally, a nationwide study indicates that the typical jazz fan spends close to $1,000 per year on jazz entertainment."
