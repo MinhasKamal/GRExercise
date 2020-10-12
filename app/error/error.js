@@ -16,6 +16,7 @@ errorModule.config([
 
                 function($scope){
                     subHeaderTitle.value = "Error";
+                    subHeaderTimer.isShow = false;
                 }],
             });
     }

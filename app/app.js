@@ -1,6 +1,7 @@
 'use strict';
 
 var subHeaderTitle = {};
+var subHeaderTimer = {};
 
 window.addEventListener('beforeunload', function (e) {
         e.preventDefault();
@@ -15,6 +16,7 @@ var GRExercise = angular.module('GRExercise', [
     'headerModule',
     'subHeaderModule',
     'footerModule',
+    'timerModule',
 ]);
 
 GRExercise.config([

@@ -17,6 +17,7 @@ awaModule.config([
 
                 function($scope, $routeParams) {
                     loadAWAQuestion($routeParams.type);
+                    subHeaderTimer.isShow = true;
                 }],
             });
     }

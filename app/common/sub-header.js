@@ -15,7 +15,9 @@ subHeaderModule.directive('subHeader',
             function($scope){
                 $scope.subHeaderTitle = {};
                 subHeaderTitle = $scope.subHeaderTitle;
-                subHeaderTitle.value = "";
+
+                $scope.subHeaderTimer = {};
+                subHeaderTimer = $scope.subHeaderTimer;
             }],
         };
     }

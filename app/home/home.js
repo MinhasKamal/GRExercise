@@ -16,6 +16,7 @@ homeModule.config([
 
                 function($scope){
                     subHeaderTitle.value = "Home";
+                    subHeaderTimer.isShow = false;
                 }],
             });
     }
