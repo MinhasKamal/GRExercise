@@ -1,18 +1,46 @@
 <div class="awa">
-    <ul class="awa-content">
+    <ul class="span-full">
         <li class="awa-left-block horizontally-aligned-listitem">
-            <ul class="awa-question-description-list">
+            <ul class="span-full">
                 <li class="awa-question-and-description">
-                    <textarea class="awa-question" readonly></textarea>
+                    <textarea class="awa-question span-full" readonly></textarea>
                 </li>
                 <li class="awa-question-and-description">
-                    <textarea class="awa-description" readonly></textarea>
+                    <textarea class="awa-description span-full" readonly></textarea>
                 </li>
             </ul>
         </li>
 
         <li class="awa-right-block horizontally-aligned-listitem">
-            <textarea class="awa-writing-place" spellcheck="false" placeholder="Write answer here"></textarea>
+            <ul class="span-full">
+                <li class="awa-operation-place">
+                    <ul class="span-full">
+                        <li class="horizontally-aligned-listitem">
+                            <div class="bordered-button awa-cut">Cut</div>
+                        </li>
+                        <li class="horizontally-aligned-listitem">
+                            <div class="bordered-button awa-paste">Paste</div>
+                        </li>
+                        <li class="horizontally-aligned-listitem">
+                            <div class="bordered-button awa-undo">Undo</div>
+                        </li>
+                        <li class="horizontally-aligned-listitem">
+                            <div class="bordered-button awa-redo">Redo</div>
+                        </li>
+                        <li class="horizontally-aligned-listitem-right drop-down-block">
+                            <i class="material-icons borderless-button awa-menu">menu</i>
+                            <ul class="awa-menu-options drop-box">
+                                <li class="menu-item">Word Count: {{awaEssay.wordCount}}</li>
+                                <li class="menu-item">Restriction: {{awaEssay.restriction}}</li>
+                                <li class="menu-item">Download Essay</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li class="awa-writing-place">
+                    <textarea class="span-full awa-essay" spellcheck="false" placeholder="Write answer here"></textarea>
+                </li>
+            </ul>
         </li>
     </ul>
 </div>

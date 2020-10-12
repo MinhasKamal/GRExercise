@@ -76,7 +76,7 @@ function pauseTimer() {
 
 function decreaseSecond() {
     if(remainingTimeInSecond > 0) {
-        remainingTimeInSecond --;
+        remainingTimeInSecond--;
         showTime();
     } else {
         pauseTimer();
