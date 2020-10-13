@@ -19,30 +19,38 @@ awaModule.config([
                     loadAWAQuestion($routeParams.type);
                     subHeaderTimer.isShow = true;
 
+                    $scope.awaEssay = {};
+                    $scope.awaEssay.wordCount = 0;
+                    $scope.awaEssay.restriction = 'On';
+
                     $(".awa-cut").click(function() {
-                        $(".awa-essay").focus();
-                        document.execCommand('cut');
+                        cut(".awa-essay");
                     });
                     $(".awa-paste").click(function() {
-                        $(".awa-essay").focus();
-                        navigator.clipboard.readText()
-                            .then(txt => {
-                                document.execCommand('insertText', false , txt);
-                            }).catch(err => {
-                                console.error("failed to read clipboard: ", err);
-                            });
+                        paste(".awa-essay");
                     });
                     $(".awa-undo").click(function() {
-                        $(".awa-essay").focus();
-                        document.execCommand('undo');
+                        undo(".awa-essay");
                     });
                     $(".awa-redo").click(function() {
-                        $(".awa-essay").focus();
-                        document.execCommand('redo');
+                        redo(".awa-essay");
                     });
                     $(".awa-menu").click(function() {
                         $('.awa-menu-options').toggle();
                     });
+
+                    $scope.updateWordCount = function() {
+                        $scope.awaEssay.wordCount = countWords($scope.essay);
+                    };
+                    $scope.changeQuestion = function() {
+                        loadAWAQuestion($routeParams.type);
+                    };
+                    $scope.toggleRestriction = function() {
+                        $scope.awaEssay.restriction = toggleRestriction();
+                    };
+                    $scope.downloadEssay = function() {
+                        downloadEssay();
+                    };
                 }],
             });
     }

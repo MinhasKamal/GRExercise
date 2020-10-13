@@ -94,6 +94,8 @@ textarea {
     -moz-user-select: none; /* Old versions of Firefox */
     -ms-user-select: none; /* Internet Explorer and Edge */
     user-select: none; /* Chrome, Edge, Opera and Firefox */
+
+    cursor: auto;
 }
 .borderless-button {
     cursor: pointer;
@@ -131,12 +133,15 @@ textarea {
     right: 0;
     top: 100%;
 }
-.menu-item {
-    cursor: pointer;
+.menu-item,
+.menu-item-inactive {
     padding-left: var(--smallSpace);
     padding-right: var(--smallSpace);
     font-size: 80%;
     background-color: var(--buttonColorLight);
+}
+.menu-item {
+    cursor: pointer;
 }.menu-item:hover {
     background-color: var(--buttonColorDark);
 }.menu-item:active {
