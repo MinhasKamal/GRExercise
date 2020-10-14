@@ -1,9 +1,9 @@
 :root {
-    --bgColor: #1F2E3D;
-    --bgColorHeaderFooter: #0F0F0F;
+    --bgColor: #2F4E6D;
+    --bgColorHeaderFooter: #1F1F1F;
     --bgColorSubHeader: #C89696;
     --bgColorWindow: #EFEFEF;
-    --bgColorOperarion: #9F9F9F;
+    --bgColorOperarion: #AFAFAF;
 
     --textColor: #000000;
     --textColorLink: #4090E0;
@@ -17,10 +17,15 @@
     --buttonBorderRadius: 3px;
 
     --windowWidth: 25cm;
+
     --headerHeight: 7vh;
     --subHeaderHeight: 4vh;
     --footerHeight: 3vh;
     --contentHeight: calc(100vh - ( var(--headerHeight) + var(--subHeaderHeight) + var(--footerHeight) ));
+    
+    --calculatorWidth: 6cm;
+    --calculatorButtonSize: 1cm;
+
     --smallSpace: 5px;
     --mediumSpace: 15px;
 }
@@ -87,7 +92,8 @@ textarea {
 .unselectable,
 .borderless-button,
 .bordered-button,
-.menu-item {
+.menu-item,
+.calculator {
     -webkit-touch-callout: none; /* iOS Safari */
     -webkit-user-select: none; /* Safari */
     -khtml-user-select: none; /* Konqueror HTML */
@@ -137,7 +143,7 @@ textarea {
 .menu-item-inactive {
     padding-left: var(--smallSpace);
     padding-right: var(--smallSpace);
-    font-size: 80%;
+    font-size: 70%;
     background-color: var(--buttonColorLight);
 }
 .menu-item {
@@ -306,4 +312,88 @@ textarea {
 .awa-writing-place {
     height: 96%;
     width: 100%;
+}
+
+/*....calculator....*/
+.calculator {
+    width: var(--calculatorWidth);
+    padding: 1px;
+    border: 1px solid var(--bgColor);
+    border-radius: var(--buttonBorderRadius);
+    box-sizing: border-box;
+    font-size: 130%;
+    background-color: var(--bgColorOperarion);
+}
+.calculator-table {
+    table-layout: fixed;
+}
+.calculator-row {
+    height: var(--calculatorButtonSize);
+}
+.calculator-row-small {
+    height: calc(var(--calculatorButtonSize) / 2);
+}
+.calculator-row-verysmall {
+    height: calc(var(--calculatorButtonSize) / 8);
+}
+.calculator-drag {
+    cursor: all-scroll;
+}
+.calculator-disply {
+    border-radius: var(--buttonBorderRadius);
+    padding: var(--smallSpace);
+    background-color: var(--buttonColorLight);
+}
+.calculator-memory {
+    text-align: left;
+    width: 15%;
+}
+.calculator-result {
+    text-align: right;
+    width: 85%;
+}
+.calculator-button {
+    cursor: pointer;
+    text-align: center;
+    margin: 1px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: var(--buttonBorderRadius);
+}
+
+.calculator-button-white {
+    color: var(--textColor);
+    border-color: #D0D0D0;
+    background-color: #F0F0F0;
+}.calculator-button-white:hover {
+    background-color: #E0E0E0;
+}.calculator-button-white:active {
+    background-color: #D0D0D0;
+}
+.calculator-button-darkblue {
+    color: var(--textColorHeaderFooter);
+    border-color: #012345;
+    background-color: #234567;
+}.calculator-button-darkblue:hover {
+    background-color: #123456;
+}.calculator-button-darkblue:active {
+    background-color: #012345;
+}
+.calculator-button-blue {
+    color: var(--textColorHeaderFooter);
+    border-color: #185898;
+    background-color: #3A7ABA;
+}.calculator-button-blue:hover {
+    background-color: #2969A9;
+}.calculator-button-blue:active {
+    background-color: #185898;
+}
+.calculator-button-orange {
+    color: var(--textColorHeaderFooter);
+    border-color: #983808;
+    background-color: #BA5A1A;
+}.calculator-button-orange:hover {
+    background-color: #A94909;
+}.calculator-button-orange:active {
+    background-color: #983808;
 }
