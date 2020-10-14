@@ -343,6 +343,7 @@ textarea {
     border-radius: var(--buttonBorderRadius);
     padding: var(--smallSpace);
     background-color: var(--buttonColorLight);
+    font-weight: bold;
 }
 .calculator-memory {
     text-align: left;

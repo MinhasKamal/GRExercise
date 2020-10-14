@@ -16,19 +16,24 @@ calculatorModule.config([
                 
                 function($scope) {
                     subHeaderTitle.value = "Calculator";
-                    subHeaderTimer.isShow = false;
+                    subHeaderTimer.isShow = true;
 
                     $(".calculator-cross").click(function() {
                         console.log("This will hide the calculator.");
                     });
+                    $(document).on("keypress", function (event) {
+                        var output = processKeyPressEvent(event.which);
+                        $(".calculator-result").text(output);
+                    });
                     $(".calculator-button").click(function(){
-                        var input = $(this).text();
-                        var output = claculate(input);
+                        var output = processbuttonPressEvent($(this).text());
                         $(".calculator-result").text(output);
                     });
                     $(".calculator-transfer-display").click(function(){
                         console.log("This will transfer result to text-box.");
                     });
+
+                    $(".calculator-result").text("0");
                 }],
             });
     }
