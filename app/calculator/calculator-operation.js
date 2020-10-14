@@ -19,6 +19,7 @@ var memory = "0";
 var isOperatorPressed = false;
 var isPlusMinusPressed = false;
 var isOpeningBracketPressed = false;
+var isClosingBracketPressed = false;
 
 function processbuttonPressEvent(input){
 
@@ -28,11 +29,13 @@ function processbuttonPressEvent(input){
         isOperatorPressed = false;
         isPlusMinusPressed = false;
         isOpeningBracketPressed = false;
+        isClosingBracketPressed = false;
 
     } else if (input == "CE") {
         display = "0";
         isPlusMinusPressed = false;
-        isOpeningBracketPressed = false
+        isOpeningBracketPressed = false;
+        isClosingBracketPressed = false;
 
     } else if (input == "MR") {
         display = memory;
@@ -45,18 +48,23 @@ function processbuttonPressEvent(input){
     } else if (input == "M+") {
         memory = add(memory, display);
         $(".calculator-memory").text("M");
+        isOperatorPressed = true;
 
     } else if ("0123456789.".includes(input)) {
-        if (display == "0" || isOperatorPressed || isOpeningBracketPressed) {
-            if(isOpeningBracketPressed){
+        if (display == "0" || isOperatorPressed || isOpeningBracketPressed || isClosingBracketPressed) {
+            if(isOpeningBracketPressed || isClosingBracketPressed){
                 expression += display;
             }
 
             display = "";
             isOperatorPressed = false;
             isOpeningBracketPressed = false;
+            isClosingBracketPressed = false;
         }
-        display += input;
+
+        if (input != "." || !display.includes(".")) {
+            display += input;
+        }
 
     } else if (input == "X") {
         console.log("This will hide the calculator.");
@@ -78,6 +86,7 @@ function processbuttonPressEvent(input){
 
         display = infixEvaluation(expression.substr(0, expression.length-1), display);
         isOperatorPressed = true;
+        isClosingBracketPressed = false;
 
         if (input == "=") {
             console.log(expression);
@@ -91,9 +100,10 @@ function processbuttonPressEvent(input){
     } else if (input == ")") {
         expression += display;
         display = input;
+        isClosingBracketPressed = true;
 
     } else if (input == "±") {
-        display = "-" + display;
+        display = -parseFloat(display);
         isPlusMinusPressed = true;
 
     } else if (input == "√") {
@@ -123,9 +133,22 @@ function sqrt (a) {
 function trimDisplay(display) {
     if (display > 99999999 || display < -99999999) {
         return "Error";
+
+    } else if (display <= 0.0000001 && display >= -0.0000001 && display != 0) {
+        return "0";
+
+    } else if (display < 1 && display > -1 && display.toString().length > 9) {
+        if (display.toString().charAt(0) == '.') {
+            return display.toString().substr(0, 9);
+        } else {
+            return display.toString().substr(0, 10);
+        }
+
     } else if (display.toString().length > 9) {
         return display.toString().substr(0, 9);
+
     } else {
         return display;
+
     }
 }
