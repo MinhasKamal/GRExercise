@@ -33,7 +33,7 @@ calculatorModule.config([
                         console.log("This will transfer result to text-box.");
                     });
 
-                    $(".calculator-result").text("0");
+                    clearAll();
                 }],
             });
     }

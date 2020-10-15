@@ -13,37 +13,35 @@ function processKeyPressEvent(keyCode){
     return processbuttonPressEvent(input);
 }
 
-var display = "0";
-var expression = "";
-var memory = "0";
-var isOperatorPressed = false;
-var isPlusMinusPressed = false;
-var isOpeningBracketPressed = false;
-var isClosingBracketPressed = false;
+var display;
+var expression;
+var memory;
+var isOperatorPressed;
+var isPlusMinusPressed;
+var isOpeningBracketPressed;
+var isClosingBracketPressed;
 
+var digitCount = 0;
 function processbuttonPressEvent(input){
+    if ("0123456789".includes(input)) {
+        digitCount++;
+    } else {
+        digitCount = 0;
+    }
+
 
     if (input == "C") {
-        display = "0";
-        expression = "";
-        isOperatorPressed = false;
-        isPlusMinusPressed = false;
-        isOpeningBracketPressed = false;
-        isClosingBracketPressed = false;
+        clearCalculation();
 
     } else if (input == "CE") {
-        display = "0";
-        isPlusMinusPressed = false;
-        isOpeningBracketPressed = false;
-        isClosingBracketPressed = false;
+        clearEntry();
 
     } else if (input == "MR") {
         display = memory;
         isOperatorPressed = false;
 
     } else if (input == "MC") {
-        memory = "0";
-        $(".calculator-memory").text("");
+        clearMemory();
 
     } else if (input == "M+") {
         memory = add(memory, display);
@@ -63,7 +61,9 @@ function processbuttonPressEvent(input){
         }
 
         if (input != "." || !display.includes(".")) {
-            display += input;
+            if (digitCount < 9) {
+                display += input;
+            }
         }
 
     } else if (input == "X") {
@@ -130,25 +130,47 @@ function sqrt (a) {
     return Math.sqrt(parseFloat(a));
 }
 
-function trimDisplay(display) {
-    if (display > 99999999 || display < -99999999) {
+function trimDisplay(number) {
+
+    if(isNaN(number) || number == 0) {
+        return number;
+
+    } else if (number > 99999999 || number < -99999999) {
+        clearCalculation();
         return "Error";
 
-    } else if (display <= 0.0000001 && display >= -0.0000001 && display != 0) {
+    } else if (number <= 0.0000001 && number >= -0.0000001) {
         return "0";
 
-    } else if (display < 1 && display > -1 && display.toString().length > 9) {
-        if (display.toString().charAt(0) == '.') {
-            return display.toString().substr(0, 9);
-        } else {
-            return display.toString().substr(0, 10);
-        }
+    } else if (number > 0 && number.toString().length > 10) {
+        return number.toString().substr(0, 10);
 
-    } else if (display.toString().length > 9) {
-        return display.toString().substr(0, 9);
+    } else if (number < 0 && number.toString().length > 11) {
+        return number.toString().substr(0, 11);
 
     } else {
-        return display;
+        return parseFloat(number);
 
     }
+}
+
+function clearAll(){
+    clearCalculation();
+    clearMemory();
+    $(".calculator-result").text(display);
+}
+function clearCalculation(){
+    clearEntry();
+    expression = "";
+    isOperatorPressed = false;
+}
+function clearEntry(){
+    display = "0";
+    isPlusMinusPressed = false;
+    isOpeningBracketPressed = false;
+    isClosingBracketPressed = false;
+}
+function clearMemory(){
+    memory = "0";
+    $(".calculator-memory").text("");
 }

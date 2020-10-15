@@ -17,9 +17,9 @@ Feel the actual GRE-like atmosphere with realistic user interface coupled with s
 ### Screeshots
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/5456665/96076616-91ad3980-0ecf-11eb-927f-695ef79f07e3.PNG" alt="GRExercise AWA Argument" width="450px" height=auto/>
-  <img src="https://user-images.githubusercontent.com/5456665/96076488-4430cc80-0ecf-11eb-910d-8f335c330c47.PNG" alt="GRExercise AWA Issue" width="450px" height=auto/>
-  <img src="https://user-images.githubusercontent.com/5456665/96076493-45fa9000-0ecf-11eb-9e61-0cb52246ca95.PNG" alt="GRExercise Calculator" width="450px" height=auto/>
+  <img src="https://user-images.githubusercontent.com/5456665/96078374-e94da400-0ed3-11eb-8545-4e2439fa7806.PNG" alt="GRExercise AWA Argument" width="400px" height=auto/>
+  <img src="https://user-images.githubusercontent.com/5456665/96078377-ebaffe00-0ed3-11eb-9a22-128d84f3b05c.PNG" alt="GRExercise AWA Issue" width="400px" height=auto/>
+  <img src="https://user-images.githubusercontent.com/5456665/96078376-eb176780-0ed3-11eb-989a-59d8204d4280.PNG" alt="GRExercise Calculator" width="400px" height=auto/>
 </div>
 
 ### License
