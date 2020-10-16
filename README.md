@@ -1,4 +1,4 @@
-# GRExercise
+<h1> <img src="https://github.com/MinhasKamal/GRExercise/raw/main/res/images/GRExercise.png" width="20" height=auto /> GRExercise </h1>
 
 #### Free GRE Practice Environment
 
@@ -13,6 +13,7 @@ Feel the actual GRE-like atmosphere with realistic user interface coupled with s
 - [AWA (Issue Practice)](https://minhaskamal.github.io/GRExercise/#/awa?type=issue)
 - [AWA (Argument Practice](https://minhaskamal.github.io/GRExercise/#/awa?type=argument)
 - [Calculator](https://minhaskamal.github.io/GRExercise/#/calculator)
+- [Vocab](https://minhaskamal.github.io/GRExercise/#/vocab)
 
 ### Screeshots
 

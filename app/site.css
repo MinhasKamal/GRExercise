@@ -85,6 +85,10 @@ textarea {
 .content-url-list {
     padding-left: 30px;
 }
+.content-empty-space {
+    width: 100%;
+    height: var(--smallSpace);
+}
 .span-full {
     width: 100%;
     height: 100%;
