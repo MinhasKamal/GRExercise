@@ -398,3 +398,29 @@ textarea {
 }.calculator-button-orange:active {
     background-color: #983808;
 }
+
+/*....vocab....*/
+.vocab {
+    width: 50%;
+    height: 100%;
+    margin: auto;
+}
+.vocab-text {
+    width: 100%;
+    height: fit-content;
+    min-height: 70%;
+    border: 1px solid var(--bgColor);
+    border-radius: var(--buttonBorderRadius);
+    padding: var(--smallSpace);
+    text-align: justify;
+    text-justify: inter-word;
+}
+.vocab-button-group {
+    width: 100%;
+    height: 10%;
+    table-layout: fixed;
+}
+.vocab-button {
+    height: 100%;
+    text-align: center;
+}

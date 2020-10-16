@@ -14,6 +14,7 @@ var GRExercise = angular.module('GRExercise', [
     'errorModule',
     'awaModule',
     'calculatorModule',
+    'vocabModule',
     'headerModule',
     'subHeaderModule',
     'footerModule',

@@ -1,0 +1,709 @@
+1. PREVARICATE {22}
+type: v (-)
+meaning: be deliberately ambiguous or unclear; to lie or deviate from the truth; speak evasively; mislead; concealing the truth;
+phrase: 
+examples: [The CTO seemed to prevaricate when journalists started to ask pointed questions.][Tanjil was not there to prevaricate, and he clearly told them his rank and name.][Why should we believe you when it is well known that all lawyers prevaricate?][They simply must stop prevaricating and comply with the policy.][There's no degree course in prevaricating, sadly, unless you count management science. :)][Mahedi met people who had endured 12 hours of misinformation and prevarication before they boarded a plane.]
+synonymous: equivocate, waffle
+antonymous: 
+mnemonics: 
+note: There are many situations where we need to point out a lie, but want to do so as politely as possible. 'PREVARICATE' like words are used there.
+---
+2. AUSTERE {22}
+type: adj (-/+)
+meaning: stern or strict in manner & appearance; undecorated & without luxury; very self-disciplined; severely simple; self-denying; having an extremely simple appearance;
+phrase: 
+examples: [At first, Dr. Shoaib betook himself to a remote village of Jhenaidah, and began to live a recluse and austere life there.][The conditions are austere: one book for 5 children, a broken blackboard, and a tin roof with holes.][What may have compelled such austere policies?][Not all South American airports have austere arrival concourses.][Mr. Ooh is very reserved and austere, just as you would imagine a grand old man of ancient times to be.]
+synonymous: ascetic, spartan, abstemious, stringent, frugal, unadorned
+antonymous: 
+mnemonics: 
+note: 
+---
+3. GARRULOUS {22}
+type: adj (-)
+meaning: excessively talkative on trivial or off-topic matters; pointlessly talkative;
+phrase: 
+examples: [Niloy is so garrulous that he can hardly keep any secret.][Everyone became equally loud, crude, and garrulous after just the first shot.][Tomorrow, after a long vacation, high school playgrounds all over Korea will again resonate with the sound of garrulous teenagers.]
+synonymous: verbose, loquacious
+antonymous: laconic, taciturn, reticent
+mnemonics: 
+note: 
+---
+4. PLACATE {22}
+type: v (+)
+meaning: make less angry or hostile; calm down dissatisfaction; to pacify;
+phrase: 
+examples: [The VC was able to placate the angry students by promising to fulfill their demands.][I made call to customer care to report this irritating problem which elicited placatory words and promises of action.][The witch attempted to placate the princess with soft and deceitful words.]
+synonymous: alleviate, assuage, mollify, conciliate, subdue, pacify, mitigate, abate, ameliorate
+antonymous: 
+mnemonics: 
+note: 
+---
+5. DIATRIBE {21}
+type: n (-)
+meaning: abusive criticism; a strong verbal attack; condemnatory or angry speech;
+phrase: launch into a diatribe
+examples: [As political diatribes go, the messages criticizing the two county commissioners were pretty mild.][Rushan’s mother launched into a diatribe during the PTA meeting.][A few years later she took her revenge by writing a diatribe against the club.][Whether or not you agree with Lira's often irrational diatribes, she's arguably the most widely-read Italian blogger.]
+synonymous: harangue, tirade, admonishment, vituperation, defamation, vilification, denigration, disparagement, screed
+antonymous: 
+mnemonics: 
+note: 
+---
+6. ESOTERIC {21}
+type: adj (-)
+meaning: confined to and known only by a few; secret and difficult to understand; understood by or intended for only a small group;
+phrase: esoteric programming language
+examples: [Naher taught mathematics not as some esoteric mystery, but as practical common sense.][It is difficult for the uninitiated to arrive at the esoteric meaning of these writings.][His life work has been to conduct research in a somewhat esoteric branch of cognitive neuroscience.][The purpose of these transformations will sound a bit esoteric at the moment.]
+synonymous: abstruse, obscure, arcane, recondite, enigmatic, inscrutable, opaque
+antonymous: lucid
+mnemonics: 
+note: 'eso' means 'in'; in the sense esoteric means 'inside knowledge'. The antonym- exoteric ('exo' = 'out') means 'common knowledge'.
+---
+7. OBDURATE {21}
+type: adj (-)
+meaning: resistant to persuasion; hardened in feeling; stubbornly refusing to change one's opinion of action;
+phrase: obdurate king
+examples: [The captain ignored the warning of his first mate, and obdurately sailed straight ahead — right into an iceberg.][This obdurate criminal should never be let out on parole; he simply cannot be reformed.][Finding the king obdurate, she went on to appeal to the pope.][Even after that incident USA remained obdurate, and continued to keep possession of the weapon.]
+synonymous: intransigent, adamant
+antonymous: amenable
+mnemonics: 
+note: 
+---
+8. IRASCIBLE {21}
+type: adj (-)
+meaning: easily angered; prone to temperamental outbursts;
+phrase: irascible beast
+examples: [It is a very quick and highly irascible beast and even known to turn on its pursuer.][It didn't take Luffy long to clash with the irascible captain of the Big Mom Pirates.][He survived, but his friends thought that the accident changed his personality from pleasant to irascible.]
+synonymous: petulant, choleric, grouchy, peevish
+antonymous: 
+mnemonics: 
+note: 'ira' means 'anger'
+---
+9. LACONIC {21}
+type: adj (+)
+meaning: brief and to the point; expressed in few words; effectively cut short;
+phrase: 
+examples: [This laconic comment in no way expressed the joy in her heart.]["The doctor says- there's no need," Shimu said, in her laconic way.][A full and suitably laconic report of the recent events will follow in March.][In the movie we see the hero change from being a chubby, loud mouthed drunkard to being a lean, laconic avenger.]
+synonymous: reticent, taciturn
+antonymous: verbose, garrulous, loquacious
+mnemonics: 
+note: Laconic comes from the Greek place named Laconia, the region in which Spartans lived. A famous story has an invading general threatening, "If I enter Laconia, I will raze Sparta to the ground." The Spartans laconically replied, "If."
+---
+10. INSIPID {21}
+type: adj (-)
+meaning: lacking taste or interest; dull and boring;
+phrase: 
+examples: [Even the wonderful performance of the actors could not help to bring commercial success, so insipid was the story of the movie.][In the face of the committee's pressure, the project lead mumbled an insipid apology for his misbehavior.][Our appetite has died by eating dull, monotonous, and insipid food of this canteen day after day.]
+synonymous: banal, hackneyed, trite
+antonymous: 
+mnemonics: in-sip-id => I really don't like the drink; it lacks taste; so I just took a sip-in-it.
+note: 
+---
+11. ERUDITE {21}
+type: adj (+)
+meaning: possessing a deep knowledge; very learned, scholarly;
+phrase: 
+examples: [][][]
+synonymous: cerebral, pundit, pedantic, acumen, astute, shrewd, sagacious, sapient, prudent, judicious, discerning, percipient, ingenious, perspicacious
+antonymous: 
+mnemonics: 
+note: 
+---
+12. INCHOATE {21}
+type: adj (-)
+meaning: in an initial stage; not fully formed; just begun; only partly in existence; unorganized;
+phrase: inchoate idea
+examples: [Her inchoate Mandarin was all but useless when she found herself at an academic conference in Shanghai.][The inchoate nature of biological memory makes it very difficult to study, let alone predict the influence of past experiences over future decisions.][Some of our critics in reviewing the original work have pronounced it inchoate.][The Roman Empire is the classical illustration of this economic policy, though in a somewhat inchoate form, in the ancient world.][Still, some argue human psychology of being an "inchoate science".]
+synonymous: rudimentary
+antonymous: 
+mnemonics: 
+note: 
+---
+13. ENERVATE {21}
+type: v (-)
+meaning: weaken, tire; reduce in strength; sap energy from;
+phrase: 
+examples: [It's fine to be disappointed, but don't become enervated and unable to rebound from negative feedback.][The hot sun had enervated me to the point of collapse.]
+synonymous: 
+antonymous: 
+mnemonics: 
+note: 'e' = 'out', 'nervous' = 'nerve'
+---
+14. ALACRITY {20}
+type: n (+)
+meaning: cheerful willingness to do something; liveliness and eagerness; enthusiasm; 
+phrase: full of alacrity
+examples: [The minister has an alacrity of spirit that helps minimize the weight he carries.][The first two weeks at his new job, Aloy worked with such alacrity that the manager became super impressed.][The alacrity with which other countries took up the idea is remarkable.][One of the key facets of the game of basketball is the speed and alacrity of movement that players exhibit.][It isn't that the British responded to the crisis with insufficient alacrity.]
+synonymous: ebullience
+antonymous: apathy, lethargy, reluctance
+mnemonics: 
+note: 
+---
+15. AMELIORATE {20}
+type: v (+)
+meaning: to make (something bad) better or more bearable; to improve; make less severe;
+phrase: to ameliorate poverty
+examples: [Our leaders have always promised to ameliorate poverty.][A solution to ameliorate the negative impact of these areas is needed.][I agree with her description of a more ameliorative economic policy for small businesses.][The reform did much to ameliorate living standards.][Higher-than-normal levels of fetal hemoglobin can ameliorate some of the symptoms of Thalassemia.][The proposal's goal was to ameliorate the effects of traffic.]
+synonymous: alleviate, assuage, mollify, conciliate, subdue, pacify, mitigate, placate, abate
+antonymous: exacerbate, aggravate
+mnemonics: 
+note: 
+---
+16. OBSEQUIOUS {20}
+type: adj (-)
+meaning: attempting to win favor by flattery; overly submissive and eager to please; obedient or attentive to an excessive degree;
+phrase: obsequious waiter
+examples: ["I've always been by your side, Ava." Bill whined obsequiously.][Just a little more than a year ago, the Senate obsequiously handed to the President the constitutional authority to declare war.][Rowshi thought- she could get promotion by being obsequious to her boss.][His obsequious language on this occasion, and the favors with which it was rewarded, delivered a wrong message to the new joiners.]
+synonymous: sycophantic, adulator, fawning, groveling
+antonymous: 
+mnemonics: 
+note: 'sequi = 'follow'; also appears in sequel and sequence.
+---
+17. PRODIGAL {20}
+type: adj (-)
+meaning: spending money recklessly; too much wasteful; lavishly abundant;
+phrase: 
+examples: [Nature is prodigal here in offering her beauty to the exhausted travelers.][Every prodigal, in reality, is a public enemy; every frugal is a public benefactor.][Call me reckless, prodigal even, but I have been trying to save as much as I can.]
+synonymous: profligate, unthrifty, profuse, wanton, squandering, lavish
+antonymous: thrifty
+mnemonics: 
+note: 
+---
+18. EPHEMERAL {20}
+type: adj (-)
+meaning: lasting a very short time; short-lived;
+phrase: 
+examples: [The topography and the climate of Nevada have led to the formation of two kinds of lakes, the ephemeral and the perennial.][Therefore, we accept life and death as part of this ephemeral and transient cycle.][New words are constantly being coined, some will prove ephemeral, others are here to stay.]
+synonymous: 
+antonymous: 
+mnemonics: 
+note: 
+---
+19. PHLEGMATIC {20}
+type: adj (-)
+meaning: not easily excited; calm and unemotional in temperament; sluggish;
+phrase: 
+examples: [Overall, he was phlegmatic about his departure from the company he worked for 8 years.][The constables were fat, phlegmatic, and anything but heroic.][Even the normally phlegmatic students were grinning like a maniac.]
+synonymous: nonchalant, apathetic, impassive, imperturbable, stolid
+antonymous: 
+mnemonics: 
+note: 'phlegm' = 'snot' or 'mucus'. The ancient Greeks thought that- people were ruled by four humors: phlegm, blood, black bile, and yellow bile. phlegm -> phlegmatic (apathetic), blood -> sanguine (optimistic), bile -> bilious (mean).
+---
+20. RETICENT {20}
+type: adj (-)
+meaning: not talking much; not willing to express thoughts and feelings; inclined to silence; reluctant to draw attention;
+phrase: 
+examples: [Junyeop Lee was famously reticent regarding his private life.][It can be difficult both for those who love to talk about themselves, and for those who are more reticent.][He asked the reticent girl to offer her thoughts and opinions.][Understandably, after that blunder, they became more reticent to meet new people.][The thing is, Indians are reticent about expressing love, and a special day dedicated to love is prized.]
+synonymous: taciturn, laconic
+antonymous: verbose, garrulous, loquacious
+mnemonics: 
+note: 
+---
+21. FACETIOUS {19}
+type: adj (-)
+meaning: inappropriately humorous; treating serious issues with (inappropriate) humor; not intended to be taken seriously; cleverly amusing in tone;
+phrase: facetious hog
+examples: [Trying to talk to Faroque about serious financial issues is difficult because of his facetious personality.][I am not trying to be facetious, but would alternatives be more productive?][It may sound like a facetious question, but she means it seriously.][You learn very soon never to tell a joke or make a facetious remark.][Sara's parents were very angry with her facetious attitude when they scolded her.][I am trying to be facetious, but really the matter worries me a little.]
+synonymous: 
+antonymous: 
+mnemonics: 
+note: 
+---
+22. GAINSAY {19}
+type: v (-)
+meaning: speak against or oppose; declare false; deny or contradict;
+phrase: 
+examples: [I can't gainsay a single piece of evidence Mr. Akachi has presented, but I still don't trust his conclusion.][He was the head of the department, however, so there was none to gainsay him.][The governor could not gainsay the fact that the citizens were victors.][It cannot be gainsaid that the digital revolution is here with us.]
+synonymous: refute, disparage, denigrate, deride, discredit, calumniate, derogate, impugn, disdain, malign, vilify, vituperate, admonish
+antonymous: 
+mnemonics: 
+note: In old English 'gain' actually meant 'against'.
+---
+23. MISANTHROPE {19}
+type: adj (-)
+meaning: hater of mankind; a person who dislikes others;
+phrase: 
+examples: [][][]
+synonymous: cynical
+antonymous: 
+mnemonics: Ms. Ann Thrope <- Don't make fun of her, she will get angry.
+note: 'mis' = 'not' or 'against'; 'anthro' = 'man' or 'human kind'. Like- 'anthropology' = the study of human & human behavior in the past and present.
+---
+24. TORTUOUS {19}
+type: adj (-)
+meaning: not straightforward; having repeated bends and turns; extremely complicated & twisting;
+phrase: tortuous road
+examples: [You will find a seemingly abandoned hut at the end of this tortuous bucolic road.][It is a very complicated, complex and tortuous process that we are going through here.][]
+synonymous: convoluted, circuitous
+antonymous: 
+mnemonics: 
+note: 
+---
+25. INNOCUOUS {19}
+type: adj (+)
+meaning: not injurious to physical or mental health; harmless and doesn't produce any ill effects; something so harmless as to lack interest;
+phrase: innocuous insect
+examples: [There is nothing to be so afraid of that innocuous insect.][Zuberul is an expert on steganography, the science of concealing secret messages in seemingly innocuous content.][]
+synonymous: benign
+antonymous: 
+mnemonics: 
+note: 'nocuous' = 'harmful'
+---
+26. MALLEABLE {19}
+type: adj (+)
+meaning: capable of being shaped or formed; flexible; easily influenced;
+phrase: malleable metal
+examples: [The more malleable the material, the easier it is to bend into jewelry.][I am not someone whose convictions are easily malleable.][Clay becomes malleable and easy to work with after a little water is added.][This is only possible with malleable and ductile metals.]
+synonymous: 
+antonymous: 
+mnemonics: 
+note: 
+---
+27. CAPRICIOUS {19}
+type: adj (-)
+meaning: impulsive and unpredictable; changing one's mind quickly; whimsical;
+phrase: capricious coach
+examples: [The champion team of last year could not even win a single match in this tournament because of the capricious decisions of the coach.][We have had a very capricious weather lately.][Despite having a violent and capricious temper, he was very reliable with his work.][Even those who have climbed in the Alps find it hard to understand the appeal of such a brutal and capricious mountain.]
+synonymous: erratic
+antonymous: 
+mnemonics: 
+note: 
+---
+28. LUCID {19}
+type: adj (+)
+meaning: clear and easy to understand; expressed clearly;
+phrase: 
+examples: [The material is clearly presented and written in a lucid and eloquent manner.][][]
+synonymous: intelligible, cogent, coherent, limpid, pellucid
+antonymous: 
+mnemonics: 
+note: Same root- elucidate = 'make lucid'
+---
+29. ASCETIC {19}
+type: adj (+)
+meaning: a person who leads an austere and simple life; practicing self-denial; without luxuries;
+phrase: 
+examples: [When the business man proselytized himself into a monk, he donated all worldly possessions and went into the mountain to live an ascetic and recluse life.][][]
+synonymous: austere, spartan, abstemious, stringent
+antonymous: 
+mnemonics: 
+note: 
+---
+30. PRECIPITATE {19}
+type: v (+/-)
+meaning: cause to happen suddenly, unexpectedly, or prematurely; bring about abruptly;
+phrase: 
+examples: [An invasion would certainly precipitate a political crisis.][He attempted to precipitate matters by a sudden attack, and in the spring of 1203 nearly captured the king.][If any organic salt is formed in this reaction, it will precipitate immediately.][Many situations may precipitate this painful injury.]
+synonymous: 
+antonymous: 
+mnemonics: 
+note: As a noun 'precipitate' means- substance that settles out of a liquid mixture, like- "The precipitate is washed, collected, and dried at a moderate heat before storing." As an adjective 'precipitate' means- hasty or rash, like- "Don't be precipitate- think it through before you make a decision.", and "How would she explain to herself his sudden, precipitate journey to London alone?"
+---
+31. BOLSTER {19}
+type: adj (+)
+meaning: to support or strengthen; provide reinforcement;
+phrase: 
+examples: [Anyone else have an opinion on this matter that we can use to bolster our position?][][]
+synonymous: buttress, fortify, invigorate
+antonymous: 
+mnemonics: 
+note: 
+---
+32. EXACERBATE {19}
+type: v (-)
+meaning: to make a problem worse; irritate;
+phrase: 
+examples: [He knew how that reply would just exacerbate the situation, and possibly ruin the agreement.][Researchers believe that processed food, particularly ready meals, are exacerbating the complication of intestine.][How can the war continue, they ask, if it's exacerbating the problem it was meant to solve?][Often, the stress of worrying about school can exacerbate health conditions.]
+synonymous: 
+antonymous: ameliorate
+mnemonics: 
+note: 'ex' = 'out' or 'thoroughly'; 'acerbic' = 'harsh' or 'sour'
+---
+33. AUDACIOUS {19}
+type: adj (-)
+meaning: recklessly bold; daring and fearless in taking risks; to be bold and rude in social situations; showing lack of respect;
+phrase: 
+examples: [She made the audacious choice to tell me a downright lie!][It was both audacious and smart of Kamal to take such action in this dire situation.][]
+synonymous: impudent, impertinent, insolent, effrontery, brazen
+antonymous: 
+mnemonics: 
+note: 
+---
+34. PERFUNCTORY {19}
+type: adj (-)
+meaning: done without much care; lacking interest or enthusiasm; done merely as a routine;
+phrase: perfunctory work
+examples: [][After a perfunctory search, the guards found nothing suspicious in his car and the incident was written off as a tragic accident.][However, this poor, perfunctory effort will do the band more harm than good.]
+synonymous: superficial, tangential, cursory, precipitous
+antonymous: ebullient, sanguine
+mnemonics: 
+note: 'per' = 'through', 'function' = 'work'; it is like trying to get through a work as quickly as possible.
+---
+35. ASSUAGE {18}
+type: v (+)
+meaning: to make something unpleasant less intense; to ease, lessen, or pacify;
+phrase: 
+examples: [This sap of leaf should assuage some of your pains.][][]
+synonymous: abate, alleviate, mollify, conciliate, subdue, pacify, mitigate, placate, ameliorate
+antonymous: 
+mnemonics: 
+note: 
+---
+36. SOPORIFIC {18}
+type: adj (+/-)
+meaning: tending to induce drowsiness; causing sleep or lethargy;
+phrase: 
+examples: [The teacher's insipid speech was so soporific that I started yawning even after having a good night sleep.][][]
+synonymous: 
+antonymous: 
+mnemonics: 
+note: 
+---
+37. RECONDITE {18}
+type: adj (-)
+meaning: not easily understood; difficult to penetrate; little known or complex; incomprehensible to one with ordinary understanding;
+phrase: 
+examples: [][][]
+synonymous: abstruse, arcane, inscrutable, esoteric, opaque, enigmatic, obscure
+antonymous: 
+mnemonics: Think of the different types of slates that are waterproof; like- hematite, graphite, pyrite, magnetite etc. Now, imagine as 'recondite' being also one of them that water cannot penetrate.
+note: 
+---
+38. SPECIOUS {18}
+type: adj (-)
+meaning: seemingly true but actually false; deceptively attractive; based on pretense; plausible but fallacious;
+phrase: 
+examples: [These arguments are specious; they are based on rosy assumptions or bad analogies.][][]
+synonymous: spurious, sham, fictitious, factitious, dissembling
+antonymous: 
+mnemonics: The word is trying to look like 'spacious' but it is actually not.
+note: similar word- 'spacious' = 'wide'
+---
+39. VENERATE {18}
+type: v (+)
+meaning: to honor deeply; regard with great respect and awe; show reverence;
+phrase: 
+examples: [You cannot just insult such a highly venerated officer.][][]
+synonymous: revere, defer
+antonymous: 
+mnemonics: 
+note: 
+---
+40. ENGENDER {18}
+type: v (+/-)
+meaning: to produce; give rise to; cause to exist;
+phrase: 
+examples: [The resentment that criticism engenders can demoralize employees, family members and friends, and still not correct the situation that has been condemned. (How to Win Friends and Influence People)][][]
+synonymous: 
+antonymous: 
+mnemonics: 
+note: 
+---
+41. PRAGMATIC {18}
+type: adj (+)
+meaning: practical rather than idealistic; concerned with practical matters; dealing with actual facts and reality;
+phrase: 
+examples: [That is not achievable with current technology; do not daydream, be more pragmatic.][][]
+synonymous: 
+antonymous: 
+mnemonics: 
+note: 
+---
+42. METICULOUS {18}
+type: adj (+)
+meaning: showing great attention to detail; characterized by extreme care and precision;
+phrase: 
+examples: [Only the finest beans are meticulously handpicked, washed in spring water, and later sun-dried.][Such long trip involved meticulous planning.][King Lakshman Sen was very meticulous about hygiene.][As a surgeon, of course Dr. Adisa needs to be highly meticulous in her work.][Wang Wei was known to be a rather meticulous artist, producing some of the most well-known masterpieces of 18th century.]
+synonymous: fastidious, scrupulous, punctilious, exacting
+antonymous: 
+mnemonics: 
+note: 
+---
+43. PROFLIGATE {18}
+type: adj (-)
+meaning: extremely wasteful; recklessly extravagant; completely and shamelessly immoral; unrestrained by convention or morality;
+phrase: 
+examples: [][Bangladesh must tackle the environmental crisis brought on by its profligate consumption of fossil fuels.][]
+synonymous: prodigal, unthrifty, profuse, wanton, squandering, lavish
+antonymous: 
+mnemonics: 
+note: 
+---
+44. PROBITY {18}
+type: n (+)
+meaning: complete honesty and integrity; adherence to strong moral principles;
+phrase: financial probity
+examples: [The faithful salesman, who had given such proofs of probity, was promoted by his employer.][Iida, the class representative of 1A hero course, acts with the utmost probity at all times.][We want every citizen to act with probity, decorum, honesty and forthrightness.][Are there systems in place to ensure their financial probity?]
+synonymous: scrupulous, veracious
+antonymous: 
+mnemonics: 
+note: 
+---
+45. RESCIND {18}
+type: v (-)
+meaning: cancel officially; to invalidate; repeal; to retract; nullify;
+phrase: 
+examples: [When this new irrefutable evidence will come to light, the judge will have no choice but to rescind the trial verdict.][][]
+synonymous: 
+antonymous: 
+mnemonics: 
+note: 
+---
+46. MOROSE {18}
+type: adj (-)
+meaning: not friendly or sociable; sullen and ill-tempered; having a gloomy or bad manner; unwilling to speak or smile;
+phrase: 
+examples: [Most of my classmates at college assumed me as egoistic, morose, and reticent a being, and I do not blame them as I used to try to avoid interaction and keep focus on my study.][][]
+synonymous: 
+antonymous: 
+mnemonics: 
+note: 
+---
+47. IMPLACABLE {18}
+type: adj (-)
+meaning: unable to be calmed down or made peaceful; not able to be appeased or satisfied;
+phrase: 
+examples: [The man who was supposed to be protecting them somehow became their fiercest and most implacable enemy.][Not a word more would he say, but sat in his implacable sullenness as indifferent to me as though I had not been in the room at all.][]
+synonymous: 
+antonymous: 
+mnemonics: 
+note: 'placate' = 'pacify'
+---
+48. IMMUTABLE {18}
+type: adj (+/-)
+meaning: unable to be changed; unchanging over time; inflexible; permanent;
+phrase: 
+examples: [These laws are as immutable as Newton's laws, and comes from beyond our authority.][One immutable truth of urban warfare is that it requires a lot of resources.][]
+synonymous: unmalleable
+antonymous: 
+mnemonics: 
+note: 'mutation' = 'change'
+---
+49. CONTRITE {18}
+type: adj (+)
+meaning: to be remorseful; feeling sorry for one's offenses or sins; deeply sorrowful or repentant for wrong doings; seeking forgiveness;
+phrase: 
+examples: [One day before the deliver I received a contrite telephone call from the store saying there had been a blunder.][The contrite young boy solely apologized for breaking the window, however that did not propitiate the livid old woman.][]
+synonymous: penitent
+antonymous: 
+mnemonics: 
+note: 
+---
+50. ICONOCLAST {18}
+type: n (+/-)
+meaning: a person who strongly opposes generally accepted beliefs; attacker of traditions or cherished beliefs;
+phrase: 
+examples: [][She is, at least, no longer the iconoclast she was when she came into this valley.][The iconoclastic movement was perhaps the most dramatic episode in Byzantine history.]
+synonymous: maverick, heretic
+antonymous: 
+mnemonics: 
+note: 'icono' = 'image' or 'likeness', 'clast' = 'breaker'
+---
+51. FOMENT {18}
+type: v (+/-)
+meaning: try to stir up violent sentiment or action; promote the growth of an undesirable; apply medicated liquid to a body part;
+phrase: 
+examples: [][][The riot downtown began to foment nervous feelings in the local residents.]
+synonymous: 
+antonymous: 
+mnemonics: 
+note: 
+---
+52. DUPE {18}
+type: v & n (-)
+meaning: to deceive someone; to fool or trick; a person who is easily deceived or fooled;
+phrase: 
+examples: [Guess what, smart people like you are among the easiest to dupe.][][]
+synonymous: 
+antonymous: 
+mnemonics: 
+note: 
+---
+53. ENDEMIC {18}
+type: adj (+/-)
+meaning: belonging to a particular area; natural or confined to a particular place; native, local; regularly found among particular people or in a certain area;
+phrase: 
+examples: [][Researchers are trying to determine if this certain species is endemic to Sundarban only.][]
+synonymous: 
+antonymous: pandemic ('pan' = all)
+mnemonics: 
+note: 'en' = in and 'demos' = people
+---
+54. BURGEON {18}
+type: v (+)
+meaning: grow and flourish rapidly;
+phrase: 
+examples: [][As car prices are going down, dealers are expecting sales to burgeon.][]
+synonymous: 
+antonymous: 
+mnemonics: 
+note: 
+---
+55. ARDUOUS {18}
+type: adj (-)
+meaning: very difficult and tiring to do; hard to endure; requiring significant effort;
+phrase: 
+examples: [He finished such an arduous task with so much ease, that even judges got surprised.][][]
+synonymous: 
+antonymous: 
+mnemonics: 
+note: 
+---
+56. GREGARIOUS {17}
+type: adj (+)
+meaning: sociable; enjoying the company of others; extroverted;
+phrase: gregarious bat
+examples: [][Hippos are gregarious, live in herds, and are well adapted to life in the water.][]
+synonymous: 
+antonymous: 
+mnemonics: 
+note: 
+---
+57. DOGMATIC {17}
+type: adj (-)
+meaning: highly opinionated, not accepting that a belief may not be correct; expressing a rigid opinion based on unproved or improvable principles;
+phrase: 
+examples: [][][He became increasingly notorious for his intolerant dogmatic approach to complex issues.]
+synonymous: fanatic, pedantic, orthodox, zealot, dogmatist, partisan, chauvinist, prejudiced, jingoistic, over-scrupulous
+antonymous: 
+mnemonics: 
+note: 
+---
+58. INTRANSIGENT {17}
+type: adj (-/+)
+meaning: refusing to compromise; having extreme attitudes;
+phrase: intransigence towards piracy
+examples: [][][Samsung is trying to create business links with the music industry at the same time as being completely intransigent to the issues of piracy.]
+synonymous: irreconcilable
+antonymous: 
+mnemonics: 
+note: 
+---
+59. SANCTION {17}
+type: n/v (+/-)
+meaning: official approval; authoritative permission; a penalty for disobeying law;
+phrase: 
+examples: [None of the policies can even be changed a little without the sanction of the complete committee.][Was prison the best sanction for such reprobate a crime?][][]
+synonymous: 
+antonymous: 
+mnemonics: 
+note: 
+---
+60. PRISTINE {17}
+type: adj (+/-)
+meaning: former; characteristic of earlier time; untouched;
+phrase: pristine glory
+examples: [I assured him that although it might have lost some of its pristine glory, nevertheless it was still magnificent. (How to Win Friends and Influence People)][][]
+synonymous: 
+antonymous: 
+mnemonics: 
+note: 
+---
+61. NOISOME {17}
+type: adj (-)
+meaning: having an extremely bad smell; offensively disgusting; harmful;
+phrase: noisome skunk
+examples: [Noisome vapors from the smoldering waste is clouding the sky.][][]
+synonymous: 
+antonymous: 
+mnemonics: 
+note: 
+---
+62. PEDANTIC {17}
+type: adj (-)
+meaning: excessively concerned with minor details or formal rules; orthodox; being showy of ones knowledge;
+phrase: 
+examples: [The royal palace, some pedants would say the ex-royal palace, had been renovated as an art museum.][Most of the articles here are long, insipid, and too pedantic to attract the general mass.][][]
+synonymous: pedantic, orthodox, zealot, dogmatist, partisan, chauvinist, prejudiced, jingoistic, over-scrupulous, dogmatic
+antonymous: dilettante
+mnemonics: 
+note: 
+---
+63. CRAVEN {17}
+type: adj (-)
+meaning: cowardly; lacking courage;
+phrase: 
+examples: [I could see a craven, intimidated, weak man in those furtive eyes.][][]
+synonymous: pusillanimous, ignoble
+antonymous: 
+mnemonics: 
+note: 
+---
+64. DISSEMBLE {17}
+type: v (-)
+meaning: present a false appearance; pretend; disguise someone's real intention; conceal the truth; mislead; to put on a false face;
+phrase: 
+examples: [][][]
+synonymous: 
+antonymous: resemble
+mnemonics: pretends to be 'disassemble'
+note: Comes from the same root as 'resemble' or 'semblance'
+---
+65. VOLATILE {17}
+type: adj (+/-)
+meaning: liable to change easily and unpredictably; evaporate rapidly at normal temperature; explosive;
+phrase: 
+examples: [][The firm is undergoing a significant change in response to the increasingly competitive and volatile business environment.][]
+synonymous: mercurial
+antonymous: 
+mnemonics: 
+note: 
+---
+66. QUOTIDIAN {17}
+type: adj (+/-)
+meaning: occurring daily; ordinary; commonplace; happening everyday;
+phrase: 
+examples: [IOT and artificial intelligence has sesmlessly transformed our quotidian machines into doing magical behaviors.][Her mundane quotidian routine has been totally shattered after she moved to the restive metropolitan city.][]
+synonymous: pedestrian, prosaic
+antonymous: 
+mnemonics: 
+note: 
+---
+67. PAUCITY {17}
+type: adj (-)
+meaning: scarcity; insufficient quantity; lack of something;
+phrase: 
+examples: [][The poor public hygiene was exacerbated by the paucity of education and penury of local inhabitants.][]
+synonymous: 
+antonymous: 
+mnemonics: 
+note: 
+---
+68. INTREPID {17}
+type: adj (+)
+meaning: invulnerable to fear or intimidation; fearless; courageous;
+phrase: intrepid captain
+examples: [][Luffy was as intrepid as any other captain of the grand line.][]
+synonymous: 
+antonymous: 
+mnemonics: 
+note: 
+---
+69. DISPARATE {17}
+type: adj (-)
+meaning: fundamentally different; distinct; dissimilar; unalike;
+phrase: 
+examples: [Thought being best friends, they inhabit disparate worlds of thought.][][]
+synonymous: 
+antonymous: 
+mnemonics: 
+note: 'par' = 'equal'; like- parity bit
+---
+70. REPUDIATE {17}
+type: v (-)
+meaning: refuse to acknowledge; reject the validity of something;
+phrase: 
+examples: [Galileo repudiated the popular belief, "The Sun revolves round the Earth".][][]
+synonymous: 
+antonymous: 
+mnemonics: 
+note: 
+---
+71. TIRADE {17}
+type: n (-)
+meaning: long pompous speech; harsh verbal attack;
+phrase: 
+examples: [This is always how her tirades begin and end: "If Anne were my daughter..."; thank goodness I’m not. (The Diary of a Young Girl)][][]
+synonymous: diatribe, harangue, admonishment, vituperation, defamation, vilification, denigration, disparagement
+antonymous: 
+mnemonics: 
+note: 
