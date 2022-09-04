@@ -1,5 +1,7 @@
 <h1> <img src="https://github.com/MinhasKamal/GRExercise/raw/main/res/images/GRExercise.png" width="20" height=auto /> GRExercise </h1>
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=5KR6BA9MYTM62&no_recurring=0&currency_code=USD)
+
 #### Free GRE Practice Environment
 
 Feel the actual GRE-like atmosphere with realistic user interface coupled with superhelpful supporting features. Wish I had something like this before my GRE!
